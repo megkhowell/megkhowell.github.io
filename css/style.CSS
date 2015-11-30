@@ -1,0 +1,76 @@
+
+.navbar-default{
+  background-color:#993333;
+  border-radius: 0;
+  background-image: none;
+}
+.navbar-default .navbar-brand {
+  color: black;
+  font-family: 'Century Gothic';
+}
+.navbar-default .navbar-nav > li > a {
+  color: black;
+
+}
+
+.portfolio-thumbnail {
+
+ 	border-width: 2px;
+	border-style: solid;
+ 	border-color: gray;
+ }
+ .portfolio-page-image{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+ }
+ .portfolio-page-description{
+   margin-left: auto;
+   margin-right: auto;
+   width:36em;
+   font-family: 'Century Gothic';
+ }
+ .portfolio-thumbnail:hover {
+  border-color: #993333;
+}
+ div div h2{
+  text-align: center;
+  font-family: 'Century Gothic';
+
+ }
+ div div p{
+    font-family:'Century Gothic';
+ }
+.header-quote{
+
+ font-family:'Century Gothic';
+
+ }
+ .row-center{
+   align-items: center;
+   margin-left: auto;
+   margin-right: auto;
+
+ }
+ h1{
+   font-family: 'Century Gothic';
+ }
+ h3{
+   font-family: 'Century Gothic';
+ }
+ h4{
+   font-family: 'Century Gothic';
+ }
+ h5{
+   font-family: 'Century Gothic';
+ }
+ ul{
+   font-family: 'Century Gothic';
+ }
+ p{
+   font-family: 'Century Gothic';
+ }
+.extra-text{
+  font-family: 'Century Gothic';
+}
