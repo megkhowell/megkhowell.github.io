@@ -1,6 +1,6 @@
 
 .navbar-default{
-  background-color:#993333;
+  background-color:#993333 !important;
   border-radius: 0;
   background-image: none;
 }
@@ -9,7 +9,7 @@
   font-family: 'Century Gothic';
 }
 .navbar-default .navbar-nav > li > a {
-  color: black;
+  color: black !important;
 
 }
 
