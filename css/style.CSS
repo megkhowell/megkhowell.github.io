@@ -74,3 +74,6 @@
 .extra-text{
   font-family: 'Century Gothic';
 }
+.jumbotron .container{
+  margin-top: 40px;
+}
